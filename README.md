@@ -30,3 +30,5 @@ npm run electron:build
 發票字軌/發票號碼/未稅金額/稅額/廠商統編/發票年月/發票格式/ 摘要
 ```
 轉換並插入所選之公司的稅籍及統編最後輸出***報稅碼*** txt 國稅局報稅格式。
+
+![image](https://github.com/HKChen/xero-tax-transfer-to-ntbtax/blob/main/test_file/descrption_img/info.png)
