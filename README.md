@@ -1,4 +1,10 @@
 # xero-tax-transfer-to-ntbtax
+<div align="center">
+
+[![LICENSE](https://badgen.net/github/license/hkchen/xero-tax-transfer-to-ntbtax)](LICENSE)
+
+</div>
+
 由中小企業常用之 Xero 雲端會計軟體產出之報表，
 再依據公司稅籍及統編轉出台灣國稅局報稅上傳格式。
 
