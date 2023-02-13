@@ -1,9 +1,7 @@
 # xero-tax-transfer-to-ntbtax
-<div align="center">
 
+[![CircleCI](https://circleci.com/gh/hkchen/xero-tax-transfer-to-ntbtax/tree/circleci-project-setup.svg?style=svg)](https://circleci.com/gh/hkchen/xero-tax-transfer-to-ntbtax/?branch=circleci-project-setup)
 [![LICENSE](https://badgen.net/github/license/hkchen/xero-tax-transfer-to-ntbtax)](LICENSE)
-
-</div>
 
 由中小企業常用之 Xero 雲端會計軟體產出之報表，
 再依據公司稅籍及統編轉出台灣國稅局報稅上傳格式。
