@@ -2,7 +2,7 @@
 
 <div>
 
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/HKChen/xero-tax-transfer-to-ntbtax/tree/circleci-project-setup.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/HKChen/xero-tax-transfer-to-ntbtax/tree/circleci-project-setup)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/HKChen/xero-tax-transfer-to-ntbtax/tree/circleci-project-setup.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/HKChen/xero-tax-transfer-to-ntbtax/tree/circleci-project-setup)
 [![LICENSE](https://badgen.net/github/license/hkchen/xero-tax-transfer-to-ntbtax)](LICENSE)
 
 </div>
