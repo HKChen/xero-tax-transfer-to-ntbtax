@@ -1,6 +1,7 @@
 # xero-tax-transfer-to-ntbtax
-<div align="center">
+<div>
 
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/HKChen/xero-tax-transfer-to-ntbtax/tree/main.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/HKChen/xero-tax-transfer-to-ntbtax/tree/main)
 [![LICENSE](https://badgen.net/github/license/hkchen/xero-tax-transfer-to-ntbtax)](LICENSE)
 
 </div>
